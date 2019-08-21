@@ -1,2 +1,3 @@
-# aCourseInInteractiveTexts
-A Course in Interactive Texts: Devised for SUNY Poly - 2019
+# A Course in Interactive Texts
+Devised by: _Mark Baldridge_  
+for SUNY Poly - 2019
