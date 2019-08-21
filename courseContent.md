@@ -1,6 +1,6 @@
 # **A COURSE IN INERACTIVE TEXTS**
 
-## **Unit 01: Tip, Tap, _Type_**
+## **Unit 01: _Tip, Tap, Type_**
 
 **To write interactive texts, we need to type**  
 Maybe you have a "thumbs only" approach, or a hunt-and-peck of your own devising  
