@@ -1,10 +1,10 @@
-# **COM375 01 	Design/Writing Interactive Texts:**
+# COM375 01 	Designing/Writing Interactive Texts:
 **SUNY Polytechnic - Fall 2019**  
 **8:40-10:30 M/W**  
 **Don 1229**
 
-#### **Lecturer: Mark Baldridge**
-* **OFFICE/HOURS - DON 2143B/ TBA**
+**Lecturer: Mark Baldridge**  
+**Office/Hours - DON 2143B/_TBA_**
 
 `Preparatory Note: Throughout this course, the term "writing" is never to be interpreted as excluding images and other media`  
 `The question of Rights Issues pervades the course`  
@@ -24,13 +24,12 @@ Students will engage and become part of the public discussion of Interactive Tex
 Along the way, students may learn to write in a way that they have not, previously:  
 _As an expansion of their academic and professional practice_  
    
-**TEXTBOOK**
-We will consult the online field on the subject of Interactive Texts and ourselves create a not-insignificant contribution to it  
+**TEXTBOOK:** We will consult the online field on the subject of Interactive Texts and ourselves create a not-insignificant contribution to it  
 In this way we will be _generating a textbook_ 
 
 ## SCHEDULE  
 
-### Two _Writing Activities_ will continue more-or-less throughout the semester:
+### Two types of _Writing Activities_ will continue more-or-less throughout the semester:
 
 #### INDIVIDUAL: Owned, Branded, Competitive
 * **Journaling:** All students will keep a public weekly journal or blog throughout the semester  
@@ -44,8 +43,8 @@ Student will read the journals of their peers and comment in their own journals,
 
 #### COOPERATIVE:
 
-* **Research/Writing:** The goal here is to establish a knowledge base:  
-#### INTERACTEXTS (BETA)
+* **Research/Writing:** The goal here is to establish a knowledge base
+##### INTERACTEXTS (BETA)
 Will be a casebook, a wiki (or wiki-like) repository of our research into interactive texts  
     **Example:** An article on "Interaction by Competition" is opened. One student may research and write a paragraph or two on how the long struggle between the Chicago Tribune and the Chicago Sun Times shapes those papers, citing references and further reading  
     Another pair of students might dive into the question of the ownership of media, and seek examples where several "competing" outlets (newspapers, radio stations, etc) are owned by single individuals or corporation - perhaps dividing the research and writing tasks between them  
@@ -62,23 +61,25 @@ Will be a casebook, a wiki (or wiki-like) repository of our research into intera
   * **Exercises:** _Write "Drunk" Edit "Sober", Cut off the Head, Any Two Points Connect_ -and other timeless maxims of the writing trade- revealed through fun, short-term exercises  
   
   * **Research/Writing** may be centered around the following fields:
-
-    * **TOOLS FOR INTERACTIVE TEXTS - Approx 3 Weeks** _Markdown, Atom, Github/Pages, Hugo, Wiki_ -and/or other tools  
-    STUDENTS MAY CHOOSE as PROJECT
       
     * **INTERACTIVE NARRATIVE - Aprox 3 Weeks** _Exquisite Corpse, OULIPO , Decision Trees, Choose Your Own Adventure_ -and other models of the Interactive Narrative   
     STUDENTS MAY CHOOSE as PROJECT  
-
+    
+    * **TOOLS FOR INTERACTIVE TEXTS - Approx 3 Weeks** _Text Editors, Git Repositories, Wiki Tools_ -and/or other tools  
+    STUDENTS MAY CHOOSE as PROJECT
+    
     * **SOCIAL MEDIA - Aprox 3 Weeks** _A Network is Where you Find It, Memes (Dawkins), Gaming the System_ -and other approaches to Social Media  
     STUDENTS MAY CHOOSE as PROJECT  
 
-### Projects: (See Above and Below)
+### Projects:
 Projects can begin at any time throughout the semester  
 Projects will become the focus of the last 3 weeks of the semester  
 Each student will engage in either:  
 * A personal Project  
 * Two Group Projects 
 > A single "All-Class Project" is also an option
+
+>**Excellence Points:** Awarded at time of presentation of projects  
 
 All Projects will probably fall within one of the Research/Writing areas, or grow out of it  
 > Students may also pitch a Project
@@ -117,10 +118,9 @@ Students chose Projects in TOOLS, NARRATIVE, SOCIAL (or other) fields
 These will be presented at the end of the semester  
 Students may begin at any time, but individual units covering these fields will be staggered throughout the semester  
 **10% Excellence Points:**
-May be awarded in three ways, two of them detailed above  
-The Third Way: Awarded at the time of Project Presentations
+May be awarded in three ways -detailed above  
 
-## Learning Outcomes: On completion of this course, students will have:
+### Learning Outcomes: On completion of this course, students will have:
 Established themselves as interested "stake holders" in the field of Interactive Texts  
 Contributed to the development of texts which interact by competition and by cooperation  
 Compiled a shared "knowledge base" on Interactive Texts  
@@ -130,7 +130,7 @@ Completed an interactive, text-based project of portfolio quality
 Others will follow a more generalized course, gaining experiences throughout the pipeline  
 All will have completed tutorials emphasizing a broad skill set  
 
-### Attendance is Expected, Plagiarism is Punishable, Late Work will lose 30% of its value per day  
+##### Attendance is Expected, Plagiarism is Punishable, Late Work will lose 30% of its value per day  
  
 
 
