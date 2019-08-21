@@ -4,7 +4,7 @@
 **Don 1229**
 
 #### **Lecturer: Mark Baldridge**
-**OFFICE/HOURS**
+**OFFICE/HOURS -DON 2143B/TBA**
 
 ## THE COURSE  
 ### This semester (Fall 2019) we'll work with a real-world client
