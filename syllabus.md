@@ -41,9 +41,8 @@ Student will read the journals of their peers and comment in their own journals,
   
   > **Excellence Points:** for getting more links, site visits or other criteria established in class 
 
-#### COOPERATIVE:
+#### COOPERATIVE: The establishment of a public-facing knowledge base 
 
-* **Research/Writing:** The goal here is to establish a knowledge base
 ##### INTERACTEXTS (BETA)
 Will be a casebook, a wiki (or wiki-like) repository of our research into interactive texts  
     **Example:** An article on "Interaction by Competition" is opened. One student may research and write a paragraph or two on how the long struggle between the Chicago Tribune and the Chicago Sun Times shapes those papers, citing references and further reading  

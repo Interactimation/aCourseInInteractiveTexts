@@ -1,6 +1,6 @@
 # **A COURSE IN INERACTIVE TEXTS**
 
-## **Unit 01: _Tip, Tap, Type_**
+## Unit 01: _Tip, Tap, Type_
 
 **To write interactive texts, we need to type**  
 Maybe you have a "thumbs only" approach, or a hunt-and-peck of your own devising  
@@ -45,39 +45,42 @@ Markdown is the most commonly used lightweight markup language on the internet!
 
 ----
 
-#### **WRITING: _Head Cleaner_**
+## WRITING: _Head Cleaner_
 * Follow this Tutorial to [download Atom and set it up for Markdown](https://www.portent.com/blog/copywriting/content-strategy/atom-markdown.htm)  
-In my work, I use "trailing white space" (double spaces) before hitting the `Enter` button to force "carriage returns" - so I also use a the Whitespace "package" - you might install that too  
+In my work, I use "trailing white space" (double spaces) before hitting the `Enter` button to force "carriage returns" (new paragraphs) so I also use a the Whitespace "package" - you might install that too  
 
-* Create an Atom document on your hard drive, I call mine "headCleaner20190810-20191118" - it's in a folder called interactiveTextsCOM375sunypoly2019 and yours might be inside something similar  
+* Create an Atom document on your hard drive, I call mine `headCleaner20190826-20191204` - it's in a folder called `interactiveTextsCOM375sunypoly2019` and yours might be inside something similar  
 I think `100days` would be a good name  
   * **WRITE A PARAGRAPH IN IT EVERY DAY FOR 100 DAYS**  
 I don't care what you write. you should try to complete a small thought  
 _**You should consider that these may become public, anonymously**_ BUT you will maintain and control this document, so just write! 
   * **Format the document like this:**  
-001  
-Your daily paragraph  
-002  
-Your daily paragraph
+Your daily writing  
+|| date, number or etc ||  
+Your daily writing  
+|| date, number, etc ||  
+Think of whatever you put in between the || symbols as packets of metadata that follow the content
+>These symbols are called "pipes"  
+On English PC and Mac keyboards, the pipe is on the same key as the `backslash` key, above the `Enter` key `(Return key)` and below the `backspace` key. Pressing and holding down the `Shift` key while pressing the `pipe` key creates a pipe.
 
-#### **EXERCISE / RESEARCH:** _Algorithmically Derived Texts_  
+## **EXERCISE / RESEARCH:** _Algorithmically Derived Texts_  
 **“The exquisite corpse will drink the new wine.”**
 * Play -with peers- or [read about The Telephone Game](https://icebreakerideas.com/telephone-game/)
 * Make -with peers- or [research the Exquisite Corpse](https://www.artsy.net/article/artsy-editorial-explaining-exquisite-corpse-surrealist-drawing-game-die)  
 * On your own: [Create a cut-up](http://www.ubu.com/papers/burroughs_gysin.html) or a [fold-in](http://www.languageisavirus.com/creative-writing-techniques/william-s-burroughs-cut-ups.php#.XVxFNehKhjU)
 * Read and Research: About [the OuLiPo](https://owlcation.com/academia/Try-Oulipo-and-No-More-Writers-Block) and [Hundred Thousand Billion Poems](https://interactiveexperience.wordpress.com/tag/a-hundred-thousand-billion-poems/#_ftn2) 
  
-
 **Turn any these into games or exercises to create interactively created texts, narratives or poems**
-
-
 
 ----
 
-## **Unit 02:** _Mapping the Territory_
+## Unit 02: _Mapping the Territory_
 
 >"A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness."  
 — Alfred Korzybski, Science and Sanity  
+
+### A Story As You Like It
+
 
 
 
