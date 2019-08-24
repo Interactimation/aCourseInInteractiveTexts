@@ -63,7 +63,7 @@ Think of whatever you put in between the || symbols as packets of metadata that 
 >These symbols are called "pipes"  
 On English PC and Mac keyboards, the pipe is on the same key as the `backslash` key, above the `Enter` key `(Return key)` and below the `backspace` key. Pressing and holding down the `Shift` key while pressing the `pipe` key creates a pipe.
 
-## **EXERCISE / RESEARCH:** _Algorithmically Derived Texts_  
+## EXERCISE / RESEARCH: _Algorithmically Derived Texts_  
 **“The exquisite corpse will drink the new wine.”**
 * Play -with peers- or [read about The Telephone Game](https://icebreakerideas.com/telephone-game/)
 * Make -with peers- or [research the Exquisite Corpse](https://www.artsy.net/article/artsy-editorial-explaining-exquisite-corpse-surrealist-drawing-game-die)  
@@ -74,13 +74,129 @@ On English PC and Mac keyboards, the pipe is on the same key as the `backslash` 
 
 ----
 
-## Unit 02: _Mapping the Territory_
+## Unit 02: _Gettin all Hypertext on the Information Superhighway_
 
->"A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness."  
-— Alfred Korzybski, Science and Sanity  
+**Do you have a website? Quick, let's make one!**  
+We'll be writing, displaying and sharing our [code on Glitch](https://glitch.com/)  
+Glitch is free, but to sign in it will ask you for an email OR a FaceBook sign in OR a GitHub sign in 
+ 
+Being signed into GitHub, allows you to sign into Glitch, and Glitch was made to work with GitHub 
+
+Not coincidentally, Atom is ALSO made to work with GitHub 
+
+If you haven't worked with GitHub previously, don't worry! Tools like Glitch and Atom (as well as the GitHub Desktop) make it easier than ever [so go ahead and create a GitHub account?](https://github.com/)  
+To do this you'll STILL need an email address...  
+[Gmail is free](https://gmail.com)  
+If you are a minor and want to get an email account, we suggest a made-up name, for privacy  
+Be sure to use a password you won't ever forget!
+
+### Your New Website
+* Click on the `New Project` button in glitch  
+  * Chose the webpage option
+  * In the Top Left, find the `Show` button, to the left of that, the randomly generated name of your new project  
+    * Change the name of the project if you like (no Caps, no spaces - dashes are OK)
+    * All Glitch project names must be unique. Glitch will warn you if a name is in use
+* Click on `index.html` in the left side-bar (expand it if you don't see this)  
+----
+**DO YOU SEE A DOCUMENT THAT BEGINS: `<!DOCTYPE html>`?**
+
+----
+This is the code for your brand new webpage
+
+Between `<title>` & `</title>` (about line 4) change whatever is there to the name of your new webpage  
+
+> It can be the same as the randomly generated name Glitch picked out for your project - or the one you changed it to but now spaces and Caps are OK
+
+### Personalize It
+
+Between `<body>` & `</body>` you may find a line like:  
+`<h1>Hi there!</h1>`  
+(if not, copy and past the line, above)  
+Change whatever's between the `<h1>` & `</h1>` to a HEADLINE you want on your new webpage  
+Find (or copy/paste)  
+`<p> I'm your cool new webpage. Made with <a href="https://glitch.com">Glitch</a>!</p>`  
+Change everything between the `<p>` & `</p>` to a PARAGRAPH you want on your new webpage  
+Click the "Show" button at the top, left of the page  
+You may choose to view your webpage in a new window, or within the project edit page  
+Copy the URL of your new page and send it to a friend! 
+
+I started a new project called `randomly-named-webpage`  
+**View it here:**  
+https://randomly-named-webpage.glitch.me/  
+**REMIX it here:**  
+https://glitch.com/~randomly-named-webpage
+
+> **PRO-TIP:**  
+`https://your-webpage-name.glitch.me/`  
+(That's right - Substitute your own project name for "your-webpage-name")  
+Is the URL for your new webpage -_this is the format for sharing your project with anyone who might be confused by the remix page_    
+The `<title>` you chose is the text on that page's browser tab  
+The HEADLINE you wrote should be visible as well as the PARAGRAPH  
+
+#### Congratulations on your new webpage! Copy and send the URL to anyone you like!
+
+## WRITING: _Blog_
+
+**Create an online Publication (the word "blog" throughout is used for convenience) - you can host it as a sort of [brutalist website](https://brutalistwebsites.com/) on Glitch (I can recommend the [w3schools](https://www.w3schools.com/html/) and [Free Code Camp](https://www.freecodecamp.org) tutorial spaces) but any platform will do and most will provide tools for you  
+Consider [different platforms](https://medium.com/)  
+Try [different tools](https://wordpress.com)  
+Experiment, but settle; what's important is creating the public facing space for your personal writing   
+
+**These blogs exist as places to do some public, personal writing - to share research  and to establish your online presence on subjects related to our inquiries into interactive texts - YOU MAY CONSIDER THIS IS AN EXERCISE IN THE BRANDING OF YOUR OWN DEVELOPED CONTENT**  
+
+## EXERCISE/RESEARCH: _First Blog post should come out of your research into Algorithmically Derived Texts_  
+
+You can write an essay, compile information, make lists, organize your thoughts - but do so for public consumption  
+Strive to make connections, to make things clear 
+* Imagine a reader  
+* Explain to them
+
+**MORE (possible) RESEARCH: For your first blog post:**  
+Fluxus "Scripts"  
+Elizabot  
+Lorem Ipsum  
+Random Quote Generators
+
+**You will make at least 10 blog posts over the semester**
+
+----
+
+> HOW TO BLOG:
+* Start every writing session by creating your daily "headcleaner" paragraphs - this can be on your subject or not, you're doing this to grease the wheels, but any random thoughts on the subject you can put together will always help! 
+* Present, in writing, your research
+* Supply images and other media by links or embeds  
+* Cite sources
+
+**Excellence Points are available from the work you will be doing with your blog** 
+
+----
+
+## Unit 03: _Mapping the Territory_
+
+>**A map is not the territory** it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness.  
+— _Alfred Korzybski, Science and Sanity_  
 
 ### A Story As You Like It
+To return for a moment to Raymond Queneau and his [Hundred Thousand Billion Poems](https://interactiveexperience.wordpress.com/tag/a-hundred-thousand-billion-poems/#_ftn2)  
+If you consider the choosing of the random poem as "making 14 choices, each from 10 possibilities" you may not be surprised to learn he also wrote the first work with the form which has come to be called "choose your own adventure" - though [be careful of the trademark!](https://www.forbes.com/sites/michellefabio/2019/01/14/chooseco-choose-your-own-adventure-trademark-owner-sues-netflix-over-bandersnatch/#75a8a3d013b2)  
 
+> **INDEPTH** _Trademark, Copyright, Intellectual Property_  
+Questions about these will follow us throughout the course  
+INDEPTHS -free-ranging discussions on topics surrounding our subject- are for classroom time. Missing classroom time means missing course material like this 
+
+Let's look at his version, [ AStory As You Like It](http://www.zachhorton.com/mmr/files/Queneau_Raymond._A_Story_As_You_Like_It._OuLiPo--a_Primer_of_Potential_Literature._156-158.pdf?id=301219)  
+Seen here also in[ _digitally_ interactive form](https://www.thing.de/projekte/7:9%23/queneau_1.html)  
+
+>**INDEPTH** _Decision-Based Narrative_
+1. Do we recognize this structure?
+2. Describe other examples
+3. Can we [think of any tropes](https://tvtropes.org) that express this?
+* Can we think of spatial tropes that create the same kind of narrative space?
+* Graphic tropes?
+
+### WELCOME TO THE DECISION TREE 
+
+~~~
 
 
 

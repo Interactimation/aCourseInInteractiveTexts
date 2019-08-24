@@ -64,7 +64,7 @@ Will be a casebook, a wiki (or wiki-like) repository of our research into intera
     * **INTERACTIVE NARRATIVE - Aprox 3 Weeks** _Exquisite Corpse, OULIPO , Decision Trees, Choose Your Own Adventure_ -and other models of the Interactive Narrative   
     STUDENTS MAY CHOOSE as PROJECT  
     
-    * **TOOLS FOR INTERACTIVE TEXTS - Approx 3 Weeks** _Text Editors, Git Repositories, Wiki Tools_ -and/or other tools  
+    * **TOOLS FOR INTERACTIVE TEXTS - Approx 3 Weeks** _Text Editors, Git Repositories, Wikis, Blogs_ -and/or other tools  
     STUDENTS MAY CHOOSE as PROJECT
     
     * **SOCIAL MEDIA - Aprox 3 Weeks** _A Network is Where you Find It, Memes (Dawkins), Gaming the System_ -and other approaches to Social Media  
@@ -72,11 +72,12 @@ Will be a casebook, a wiki (or wiki-like) repository of our research into intera
 
 ### Projects:
 Projects can begin at any time throughout the semester  
-Projects will become the focus of the last 3 weeks of the semester  
+Projects will become the focus of the last 3 weeks of the semester - there will certainly be some overlap - you can think of them as combined into one 9 week field, if that helps  
 Each student will engage in either:  
 * A personal Project  
 * Two Group Projects 
-> A single "All-Class Project" is also an option
+> A single "All-Class Project" is also an option  
+The last weeks of the course will be focused on but not exclusive to these projects
 
 >**Excellence Points:** Awarded at time of presentation of projects  
 
