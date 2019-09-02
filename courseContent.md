@@ -47,7 +47,8 @@ Markdown is the most commonly used lightweight markup language on the internet!
 
 ## WRITING: _Head Cleaner_
 * Follow this Tutorial to [download Atom and set it up for Markdown](https://www.portent.com/blog/copywriting/content-strategy/atom-markdown.htm)  
-In my work, I use "trailing white space" (double spaces) before hitting the `Enter` button to force "carriage returns" (new paragraphs) so I also use the Whitespace "package" - you might install that too  
+In my work, I use "trailing white space" (double spaces) before hitting the `Enter` button to force "carriage returns" (new paragraphs) so I adjust the settings in the Whitespace "package" [-you might do that too](https://stackoverflow.com/questions/30403150/atom-text-editor-remove-trailing-whitespace-on-save/30403353)  
+  
 
 * Create an Atom document on your hard drive, I call mine `headCleaner20190826-20191204` - it's in a folder called `interactiveTextsCOM375sunypoly2019` and yours might be inside something similar  
 I think `100days` would be a good name  
