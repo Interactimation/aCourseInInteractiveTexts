@@ -4,7 +4,7 @@
 **Don 1229**
 
 **Lecturer: Mark Baldridge**  
-**Office/Hours - DON 2143B/_TBA_**
+**Office/Hours - DON 2143B/MW:11-NOON & F:NOON-1**
 
 `Preparatory Note: Throughout this course, the term "writing" is never to be interpreted as excluding images and other media`  
 `The question of Rights Issues pervades the course`  
