@@ -47,15 +47,18 @@ Markdown is the most commonly used lightweight markup language on the internet!
 
 ## WRITING: _Head Cleaner_
 * Follow this Tutorial to [download Atom and set it up for Markdown](https://www.portent.com/blog/copywriting/content-strategy/atom-markdown.htm)  
-In my work, I use "trailing white space" (double spaces) before hitting the `Enter` button to force "carriage returns" (new paragraphs) so I adjust the settings in the Whitespace "package" [-you might do that too](https://stackoverflow.com/questions/30403150/atom-text-editor-remove-trailing-whitespace-on-save/30403353)  
+In my work, I use "trailing white space" (double spaces) before hitting the `Enter` button to force "carriage returns" (new paragraphs) so I adjust the settings in the Whitespace "package" -you might do that too  
+ There is a `Remove Trailing Whitespace` checkbox at the bottom of the settings of the Whitespace package. Unchecking it preserves all trailing whitespaces
   
 
 * Create an Atom document on your hard drive, I call mine `headCleaner20190826-20191204` - it's in a folder called `interactiveTextsCOM375sunypoly2019` and yours might be inside something similar  
 I think `100days` would be a good name  
-  * **WRITE A PARAGRAPH IN IT EVERY DAY FOR 100 DAYS**  
+
+* **WRITE A PARAGRAPH IN IT EVERY DAY FOR 100 DAYS**  
 I don't care what you write. you should try to complete a small thought  
 _**You should consider that these may become public, anonymously**_ BUT you will maintain and control this document, so just write! 
-  * **Format the document like this:**  
+
+* **Format the document like this:**  
 Your daily writing  
 || date, number or etc ||  
 Your daily writing  
@@ -136,39 +139,40 @@ The HEADLINE you wrote should be visible as well as the PARAGRAPH
 
 #### Congratulations on your new webpage! Copy and send the URL to anyone you like!
 
-## WRITING: _Blog_
+## WRITING: _Journal_
 
-**Create an online Publication (the word "blog" throughout is used for convenience) - you can host it as a sort of [brutalist website](https://brutalistwebsites.com/) on Glitch (I can recommend the [w3schools](https://www.w3schools.com/html/) and [Free Code Camp](https://www.freecodecamp.org) tutorial spaces) but any platform will do and most will provide tools for you  
+**Create an online Journal (You can think of this as a "blog" or a "publication" or just a "site" - but the word "journal" throughout is used for convenience) - you can host it as a sort of [brutalist website](https://brutalistwebsites.com/) on Glitch (I can recommend the [w3schools](https://www.w3schools.com/html/) and [Free Code Camp](https://www.freecodecamp.org) tutorial spaces) but any platform will do and most will provide tools for you  
 Consider [different platforms](https://medium.com/)  
 Try [different tools](https://wordpress.com)  
-Experiment, but settle; what's important is creating the public facing space for your personal writing   
+You might be interested [platforms that support markdown](https://www.quora.com/Whats-the-best-blogging-platform-for-programmers-with-markdown-support-syntax-highlighting-and-an-online-dashboard-Custom-themes-would-also-be-great)    
+Experiment, but settle; what's important is creating the public-facing space for your personal writing   
 
-**These blogs exist as places to do some public, personal writing - to share research  and to establish your online presence on subjects related to our inquiries into interactive texts - YOU MAY CONSIDER THIS IS AN EXERCISE IN THE BRANDING OF YOUR OWN DEVELOPED CONTENT**  
+**These journals exist as places to do some public, personal writing - to share research  and to establish your online presence on subjects related to our inquiries into interactive texts - YOU MAY CONSIDER THIS IS AN EXERCISE IN THE BRANDING OF YOUR OWN DEVELOPED CONTENT**  
 
-## EXERCISE/RESEARCH: _First Blog post should come out of your research into Algorithmically Derived Texts_  
+## EXERCISE/RESEARCH: _First journal post can come out of your research into "Algorithmically Derived" Texts_  
 
 You can write an essay, compile information, make lists, organize your thoughts - but do so for public consumption  
 Strive to make connections, to make things clear 
 * Imagine a reader  
 * Explain to them
 
-**MORE (possible) RESEARCH: For your first blog post:**  
+**MORE (possible) RESEARCH: For your first journal post:**  
 Fluxus "Scripts"  
 Elizabot  
 Lorem Ipsum  
 Random Quote Generators
 
-**You will make at least 10 blog posts over the semester**
+**You will make at least 10 journal posts over the semester - You can choose to get started with this one**
 
 ----
 
-> HOW TO BLOG:
+> HOW TO Journal:
 * Start every writing session by creating your daily "headcleaner" paragraphs - this can be on your subject or not, you're doing this to grease the wheels, but any random thoughts on the subject you can put together will always help! 
 * Present, in writing, your research
 * Supply images and other media by links or embeds  
 * Cite sources
 
-**Excellence Points are available from the work you will be doing with your blog** 
+**Excellence Points are available from the work you will be doing with your journal** 
 
 ----
 
@@ -185,7 +189,7 @@ If you consider the choosing of the random poem as "making 14 choices, each from
 Questions about these will follow us throughout the course  
 INDEPTHS -free-ranging discussions on topics surrounding our subject- are for classroom time. Missing classroom time means missing course material like this 
 
-Let's look at his version, [ AStory As You Like It](http://www.zachhorton.com/mmr/files/Queneau_Raymond._A_Story_As_You_Like_It._OuLiPo--a_Primer_of_Potential_Literature._156-158.pdf?id=301219)  
+Let's look at his version, [ A Story As You Like It](http://www.zachhorton.com/mmr/files/Queneau_Raymond._A_Story_As_You_Like_It._OuLiPo--a_Primer_of_Potential_Literature._156-158.pdf?id=301219)  
 Seen here also in[ _digitally_ interactive form](https://www.thing.de/projekte/7:9%23/queneau_1.html)  
 
 >**INDEPTH** _Decision-Based Narrative_
@@ -199,6 +203,33 @@ Seen here also in[ _digitally_ interactive form](https://www.thing.de/projekte/7
 
 ~~~
 
+~~~
+
+Here is a "Choose Your Own Adventure" style [narrative tree you can edit](https://app.creately.com/diagram/n9A1kOH7gML/edit)  
+I offer this _for critique_  
+**In what ways is this story good or bad?**
+* Is it exciting?
+* Is it explorable/repeatable?
+* Do choices have consequences?
+
+## WRITING: _Decision Tree_  
+Create your own Decision Tree 
+This can be narrative... or not  
+Other Options include:  
+1. [Decision-making Flowchart](https://www.edrawsoft.com/flowchart/flowchart-for-decision-making.php)  
+* Personal Decisions
+  * "Should I change my major?"
+  * When it's right to tell a lie
+* Customer Decisions
+  * What kind of phone to buy 
+  * "Will You like The Exorcist (1973)"
+
+2. An interactive poem  
+ 
+ 
+
+
+  
 
 
 
