@@ -22,7 +22,7 @@ Third line of 1st poem...
 
   And so on, in any combination -resulting in a very large number of "potential poems"
 
-    * #### A Story As You Like It
+    * A Story As You Like It
 First known `Choose Your Own Adventure` style story  
 Does it meet our developed criteria for such tales?  
 
