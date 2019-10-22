@@ -63,6 +63,10 @@ MEDIA
 [What is Fluxus](https://www.youtube.com/watch?v=cGZ9OS1Oj14)
 
 ----
+
+## I Ching
+
+----
   
 ## Interesting Online Experiments
 A collection randomly acquired  
